@@ -1,0 +1,18 @@
+
+<!ELEMENT dream (h1,xushi,error)>
+
+
+<!ELEMENT h1 (#PCDATA)>
+
+
+<!ELEMENT xushi (#PCDATA)>
+
+<!ELEMENT exe (cpp,c++)>
+
+<!ELEMENT cpp(#PCDATA)>
+
+<!ELEMENT c++(#PCDATA)>
+
+<!ELEMENT x(xu)>
+
+<!ELEMENT xu(#PCDATA)>
